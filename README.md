@@ -2,7 +2,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/lenysjunior/lenysjunior/blob/39b230879c575ae6b54335b0f4efe6d219fa3512/Ol%C3%A1%2C%20sou%20o%20Lanival%20Junior.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using C# to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack Jr developer</strong> focused on web development.</p>&nbsp;
+<p align="center">Nunca saberemos de tudo, por isso a busca é constante! <br><br> Atualmente sendo treinado em JavaScript, HTML, CSS e C#. Futuro <strong>DESENVOLVEDOR JUNIOR</strong> ,fascinado por programação. <br>Treinamento realizado por Ímã Tech, focado em <strong>FULL STACK JR DEVELOPER</strong> .</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=lenysjunior&theme=radical&mode=weekly" />
